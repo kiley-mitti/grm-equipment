@@ -1,0 +1,11 @@
+@import 'colors';
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+.main-menu {
+  flex: 2;
+  background-color: $dark_blue;
+}
